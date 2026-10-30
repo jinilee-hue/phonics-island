@@ -134,6 +134,7 @@
   "word:tan": "fpr/constella/tan.mp3",
   "word:tape": "fpr/constella/tape.mp3",
   "word:tip": "fpr/constella/tip.mp3",
-  "word:tree": "fpr/constella/tree.mp3"
+  "word:tree": "fpr/constella/tree.mp3",
+  "sound:n": "fpr/constella/sound/n.mp3"
  }
 }
