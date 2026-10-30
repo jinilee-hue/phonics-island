@@ -63,6 +63,12 @@
   "word:pin": "fpr/Unit_1/Lesson_5/word/pin.mp3",
   "word:pop": "fpr/Unit_1/Lesson_5/word/pop.mp3",
   "word:popcorn": "fpr/Unit_1/Lesson_5/word/popcorn.mp3",
-  "word:pot": "fpr/Unit_1/Lesson_5/word/pot.mp3"
+  "word:pot": "fpr/Unit_1/Lesson_5/word/pot.mp3",
+  "word:is": "fpr/constella/is.mp3",
+  "word:am": "fpr/constella/am.mp3",
+  "word:are": "fpr/constella/are.mp3",
+  "word:have": "fpr/constella/have.mp3",
+  "word:will": "fpr/constella/will.mp3",
+  "word:not": "fpr/constella/not.mp3"
  }
 }
