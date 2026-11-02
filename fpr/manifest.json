@@ -141,6 +141,13 @@
   "sound:i": "fpr/constella/sound/i.mp3",
   "sound:c": "fpr/constella/sound/c.mp3",
   "sound:k": "fpr/constella/sound/k.mp3",
-  "sound:w": "fpr/constella/sound/w.mp3"
+  "sound:w": "fpr/constella/sound/w.mp3",
+  "sound:b": "fpr/constella/sound/b.mp3",
+  "sound:e": "fpr/constella/sound/e.mp3",
+  "sound:g": "fpr/constella/sound/g.mp3",
+  "sound:h": "fpr/constella/sound/h.mp3",
+  "sound:l": "fpr/constella/sound/l.mp3",
+  "sound:o": "fpr/constella/sound/o.mp3",
+  "sound:y": "fpr/constella/sound/y.mp3"
  }
 }
