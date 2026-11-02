@@ -138,6 +138,7 @@
   "sound:n": "fpr/constella/sound/n.mp3",
   "sound:f": "fpr/constella/sound/f.mp3",
   "sound:d": "fpr/constella/sound/d.mp3",
-  "sound:i": "fpr/constella/sound/i.mp3"
+  "sound:i": "fpr/constella/sound/i.mp3",
+  "sound:c": "fpr/constella/sound/c.mp3"
  }
 }
