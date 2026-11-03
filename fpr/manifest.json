@@ -150,6 +150,8 @@
   "sound:o": "fpr/constella/sound/o.mp3",
   "sound:y": "fpr/constella/sound/y.mp3",
   "name:e": "fpr/constella/name/e.mp3",
-  "name:u": "fpr/constella/name/u.mp3"
+  "name:u": "fpr/constella/name/u.mp3",
+  "word:can": "fpr/constella/can.mp3",
+  "word:pan": "fpr/constella/pan.mp3"
  }
 }
