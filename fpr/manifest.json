@@ -152,6 +152,13 @@
   "name:e": "fpr/constella/name/e.mp3",
   "name:u": "fpr/constella/name/u.mp3",
   "word:can": "fpr/constella/can.mp3",
-  "word:pan": "fpr/constella/pan.mp3"
+  "word:pan": "fpr/constella/pan.mp3",
+  "sound:j": "fpr/constella/sound/j.mp3",
+  "sound:q": "fpr/constella/sound/q.mp3",
+  "sound:r": "fpr/constella/sound/r.mp3",
+  "sound:u": "fpr/constella/sound/u.mp3",
+  "sound:v": "fpr/constella/sound/v.mp3",
+  "sound:x": "fpr/constella/sound/x.mp3",
+  "sound:z": "fpr/constella/sound/z.mp3"
  }
 }
